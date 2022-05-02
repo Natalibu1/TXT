@@ -1,0 +1,3 @@
+Basic theory - bug reports, testing methods, SDLC, STLC.
+Testing API - Postman, JS, autotests.
+Terminal Linux - copying files, creating files, moving files.
