@@ -1,3 +1,7 @@
-Basic theory - bug reports, testing methods, SDLC, STLC.
-Testing API - Postman, JS, autotests.
-Terminal Linux - copying files, creating files, moving files.
+Scills:
+1.Basic theory: bug reports, testing methods, SDLC, STLC.
+2.Testing API: Postman, JS, autotests.
+3.Terminal Linux: copying files, creating files, moving files.
+4.Sniffing HTTP traffic: Charles, Fiddler.
+5.DevTools web browsers: Google Chrome, FireFox.
+6.Mobile testing: Android Studio, ADB.
